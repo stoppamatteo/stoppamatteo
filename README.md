@@ -1,8 +1,8 @@
 ## Hi there, Matteo was here! 👋
 ### Something (or nothing) about me:
-...
+...maybe later...
 ### Every day's target:
-Conquer the world 🌍
+To conquer the world 🌍
 
 <!--
 **stoppamatteo/stoppamatteo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
