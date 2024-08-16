@@ -3,6 +3,14 @@
 ...maybe later...
 ### Every day's target:
 To conquer the world 🌍
+### Spoken languages
+| Language     | Level      |
+| ------------- | ------------- |
+| Italian | Native |
+| Pghgnaneis | Native |
+| Spanish | High |
+| English | High |
+| Arabic | Basic |
 
 <!--
 **stoppamatteo/stoppamatteo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
