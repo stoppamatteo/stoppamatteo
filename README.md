@@ -11,6 +11,12 @@
 | Spanish | High |
 | English | High |
 | Arabic | Basic |
+#### program languages accidentally used 💻
+- C++
+- Python
+- Java
+- Mysql
+- Html
 
 ### Every day's target:
 To conquer the world 🌍
